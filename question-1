@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone pulls all the content from a Github repository into a local repository of the same name.
