@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a divergence from the master development, where you can add new features and make changes without affecting the working software. When your branch is ready to be added, it can be merged into the master branch.
